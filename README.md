@@ -13,6 +13,9 @@ Projeto acadêmico desenvolvido em Python com Flask.
 - Python
 - Flask
 - JSON
+- HTML
+- CSS
+- JavaScript
 
 ## Objetivo
 Desenvolver um sistema acadêmico para apoiar a organização de informações de estudantes e processos acadêmicos.
