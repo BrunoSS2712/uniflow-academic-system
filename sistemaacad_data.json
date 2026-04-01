@@ -1,0 +1,45 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Gabriel Rocha Santos",
+            "matricula": "123456778"
+        },
+        {
+            "id": 2,
+            "nome": "Henrique Laet",
+            "matricula": "5566777"
+        }
+    ],
+    "professores": [
+        {
+            "id": 1,
+            "nome": "Salame ",
+            "siape": "777766688"
+        }
+    ],
+    "disciplinas": [
+        {
+            "id": 1,
+            "nome": "IA",
+            "codigo": "5577"
+        }
+    ],
+    "calendario": [
+        {
+            "id": 1,
+            "titulo": "Apresentação",
+            "data": "2025-11-05",
+            "descricao": "trabalho de apresentação "
+        }
+    ],
+    "documentos": [
+        {
+            "id": 1,
+            "tipo": "Pessoal",
+            "titulo": "RG",
+            "descricao": "Foto do registro geral",
+            "caminho": "secretaria"
+        }
+    ]
+}
